@@ -1,4 +1,4 @@
-PEP: 440
+git PEP: 440
 Title: Version Identification and Dependency Specification
 Author: Alyssa Coghlan <ncoghlan@gmail.com>,
         Donald Stufft <donald@stufft.io>
